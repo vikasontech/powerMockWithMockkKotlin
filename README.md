@@ -1,7 +1,7 @@
 # powerMockWithMockkKotlin
-Powermock example with mockk kotilin spring boot
+PowerMock example with mockk kotlin spring boot
 
-PowerMock with Mockk in Kotlin spring boot project. 
+Try to mock static method like LocalDateTime (see class `SampleTest`)
 
-Try to mock static method like LocalDateTime
+You can also see how to mock static field using Mockk see class `SampleTestUsingMockk`
 
